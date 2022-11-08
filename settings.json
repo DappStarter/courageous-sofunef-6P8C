@@ -1,0 +1,16 @@
+{
+    "name": "Elk Financial",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "Elk Token 4",
+        "/category/asset_value_tracking/core-token/symbol": "ET4",
+        "/category/asset_value_tracking/core-token/decimals": "16",
+        "/category/asset_value_tracking/core-token/supply": "50000000",
+        "/category/collection/core-entity": true
+    }
+}
